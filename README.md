@@ -10,7 +10,11 @@
 
 ### 📃 1. 프로토타입 제작 
 Figma와 Zeplin을 사용하여 기본적인 UI/UX 디자인과 Prototype을 제작한다.
+<<<<<<< HEAD
 <img src = "../../../그림/마크다운용 사진/1 마크다운.png">
+=======
+<img src = "https://user-images.githubusercontent.com/58673491/193507733-f36fa7d0-9242-4c42-9723-dc544dac62a7.png">
+>>>>>>> 216fb4cc84a0b95723fc0ec928be088daea5f3f1
 ### 💻 2. 웹사이트 퍼블리싱 
 HTML, CSS, Pure JavaScript를 사용하여 기본적인 웹사이트 퍼블리싱을 진행한다. <br>
 웹 UI 구조 설계, 스타일, 레이아웃, 애니메이션, 인터랙션을 구현합니다.
